@@ -13,3 +13,9 @@ wants to join the GitHub apt-mirror group and continue maintaining this
 repository and do new releases. If you are interested and have time and energy
 to take the project over, please contact Brandon Holtsclaw to give you the
 permission.
+
+Reccomendations for hash-sum mismatches
+=======================================
+
+See the following script to run via postmirror.sh:
+https://github.com/marblenix/fix-apt-mirror-hash-sum-mismatch
